@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+/* Section Home */
+
+.img {
+  height: 70px;
+  width: 80px;
+}
+
+.txt {
+  color: black !important;
+}
+
+.ban {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.h1 {
+  color: white;
+}
+
+.p {
+  color: white;
+}
+
+.algn {
+  text-align: center;
+}
+
+.btnn {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  color: white;
+  height: 35px;
+  width: 140px;
+}
+
+/* Section WCU */
+
+.img2 {
+  height: 100px;
+  width: 100px;
+}
+
+.algn2 {
+  text-align: center;
+  padding: 15px;
+  border-radius: 12px;
+  background-color: white;
+}
+
+/* Section Menu */
+
+.img3 {
+  width: 100%;
+  border-radius: 26px;
+}
+
+.bor {
+  border-radius: 16px;
+}
+
+/* Section Healthy */
+
+.algn4 {
+  text-align: center;
+}
+
+.bgclr {
+  background-color: #f9fbfe;
+}
+
+.bgclr1 {
+  background-image: radial-gradient(#fff8db, #fae38c);
+  height: 100%;
+}
+
+.img4 {
+  width: 270px;
+}
+
+.imgs {
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+}
+
+/* Section FU */
+
+.icon {
+  height: 40px;
+  width: 40px;
+  background-color: #d0b2001a;
+  margin: 3px;
+  border-radius: 20px;
+}
